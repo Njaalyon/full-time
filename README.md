@@ -4,7 +4,7 @@
 
 ## Week 1
 
-+ [Day 1](week-01/day-01)
++ [Day 1](week-01/day-01/README.md)
 
 ## Your instructor
 
