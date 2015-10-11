@@ -4,6 +4,6 @@
 
 ## Instructor
 
-[Artemij Fedosejev](http://artemij.com)
-artemij@theironyard.com
+[Artemij Fedosejev](http://artemij.com)<br>
+artemij@theironyard.com<br>
 07774044700
