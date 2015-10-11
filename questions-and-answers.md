@@ -1,6 +1,6 @@
 # Q/A
 
-## How to organise my solutions and project files?
+### How to organise my solutions and project files?
 
 1. Create `tiy-front-end-course` GitHub repository with `README.md` file in it.
 2. Put your name in `README.md` file.

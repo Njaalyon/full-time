@@ -6,7 +6,7 @@
 
 + [Day 1](week-01/day-01/README.md)
 
-### [Q/A](questions-and-answers.md)
+## [Q/A](questions-and-answers.md)
 
 + [How to organise my solutions and project files?](questions-and-answers.md#how-to-organise-my-solutions-and-project-files)
 
