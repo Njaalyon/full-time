@@ -8,7 +8,7 @@
 
 ## [Q/A](questions-and-answers.md)
 
-+ [How to organise my solutions and project files?]()
++ [How to organise my solutions and project files?](questions-and-answers.md#how-to-organise-my-solutions-and-project-files)
 
 ## Your instructor
 
