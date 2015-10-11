@@ -2,7 +2,11 @@
 
 + [Prework](./prework.md)
 
-## Instructor
+## Week 1
+
++ [Day 1](week-01/day-01)
+
+## Your instructor
 
 [Artemij Fedosejev](http://artemij.com)<br>
 artemij@theironyard.com<br>
