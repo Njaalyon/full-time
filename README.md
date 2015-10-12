@@ -1,4 +1,4 @@
-![](tiy-logo.png)
+<img src="tiy-logo.png" alt="The Iron Yard logo" width="300" />
 
 # Full Time Front End Engineering course
 
