@@ -9,3 +9,4 @@
   + [Guide](http://rogerdudler.github.io/git-guide/) - look at additional resources.
 + Get familiar with the [GitHub](https://guides.github.com/activities/hello-world/) - create your GitHub account.
 + Install and get familiar with [Sublime Text](http://www.sublimetext.com).
++ Read [Mastering Markdown](https://guides.github.com/features/mastering-markdown/).
