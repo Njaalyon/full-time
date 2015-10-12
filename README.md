@@ -1,4 +1,4 @@
-!()[tiy-logo.png]
+![](tiy-logo.png)
 
 # Full Time Front End Engineering course
 
