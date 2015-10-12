@@ -1,6 +1,6 @@
 <img src="tiy-logo.png" alt="The Iron Yard logo" width="300" />
 
-# Full Time Front End Engineering course
+# Full-time Front End Engineering course
 
 + [Prework](./prework.md)
 
